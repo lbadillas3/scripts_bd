@@ -1,0 +1,1 @@
+SELECT * FROM cardif_hospitalario_familiar.result

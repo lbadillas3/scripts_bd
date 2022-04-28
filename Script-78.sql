@@ -1,0 +1,1 @@
+ALTER TABLE "Genesys".deducible ADD COLUMN id_campana varchar;
